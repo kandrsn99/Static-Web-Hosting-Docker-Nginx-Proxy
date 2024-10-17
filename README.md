@@ -11,9 +11,11 @@ In order to install this repository from the command line you will need to get s
 Any Operating System utilizing 'APT' package manager
 > sudo apt install curl
 > sudo apt-get git
+
 Any Operating System utilizing 'YUM' package manager
 > sudo yum install curl
 > sudo yum install git
+
 Any Operating System utilizing 'DNF' package manager
 > sudo dnf install curl
 > sudo dnf install git
