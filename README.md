@@ -9,8 +9,8 @@ It shall be noted here you will need to install the docker engine on your local 
 In order to install this repository from the command line you will need to get some curl and git.
 
 Any Operating System utilizing 'APT' package manager
-> sudo apt install curl
-> sudo apt-get git\
+> sudo apt install curl\
+> sudo apt-get git
 
 Any Operating System utilizing 'YUM' package manager
 > sudo yum install curl\
