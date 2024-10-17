@@ -20,5 +20,9 @@ Any Operating System utilizing 'DNF' package manager
 > sudo dnf install curl\
 > sudo dnf install git
 
-Next, utilize the curl function to install this repository on your local machine.
-> bash <(curl -s https://github.com/kandrsn99/Web-Hosting-Docker-Sample)
+Next, utilize the git function on your local machine command line interface to download this repository.
+> git clone --bare (git-external-repository link here when finished)
+
+
+ 
+
