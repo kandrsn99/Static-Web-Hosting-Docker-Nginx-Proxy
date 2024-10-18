@@ -1,0 +1,14 @@
+version: '3.8'
+# Denote all services utilized by docker engine.
+services:
+# A web application service.
+  web_application:
+    image: static_web_app
+    # Build Dockerfile
+    build: .
+    # Name of the container
+    container_name: running_web_app
+    restart:always
+    # Mapping port 8080 to 80 on your machines infrastructure. This is the most typical portage usage on any machine utilized for hosting.
+    ports:
+      - "8080:80"
