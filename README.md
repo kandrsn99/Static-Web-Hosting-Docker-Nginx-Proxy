@@ -6,23 +6,19 @@ You may read about the documentation of docker here:
 
 It shall be noted here you will need to install the docker engine on your local machine. You may do this through the instructions on the following webpage: https://docs.docker.com/engine/install/
 
-In order to install this repository from the command line you will need to get some curl and git.
+In order to install this repository from the command line you will need to get the 'git' package.
 
 Any Operating System utilizing 'APT' package manager
-> sudo apt install curl\
 > sudo apt-get git
 
 Any Operating System utilizing 'YUM' package manager
-> sudo yum install curl\
 > sudo yum install git
 
 Any Operating System utilizing 'DNF' package manager
-> sudo dnf install curl\
 > sudo dnf install git
 
 Next, utilize the git function on your local machine command line interface to download this repository.
 > git clone --bare (git-external-repository link here when finished)
 
-
- 
-
+Subsequently, change into the directory containing your downloaded repository. 
+> cd 'name of file-path'
