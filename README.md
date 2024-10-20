@@ -29,5 +29,7 @@ Upon entering the directory. The docker compose file should allow you to build t
 
 You may check your HTML via web hosting service on http://localhost:8080/
 
-You may purchase a domain name server (DNS) register to point to your new hosts internet protocol (IP) address. Upon completion of pointing a DNS at the host you may use http://dominamename to send you all your friends. 
+You may purchase a domain name server (DNS) register to point to your new hosts internet protocol (IP) address. Upon completion of pointing a DNS at the host you may use http://dominamename to send to all your friends and/or customers.
+
+It is highly recommended that you use Cloudflare as they are the leading provider of a register for hosting a DNS. You may review their documentation here https://developers.cloudflare.com/learning-paths/get-started/ at your leisure.
 
