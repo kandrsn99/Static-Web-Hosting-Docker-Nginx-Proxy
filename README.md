@@ -1,10 +1,10 @@
 # Web-Hosting-Docker-Container
 This is a sample of a webpage launchable with Docker. Docker makes it easy to deploy executables on a web-host.
 
-You may read about the summarized documentation of docker here:
+You may read about the summarized documentation of Docker here:
 [https://github.com/kandrsn99/Web-Hosting-Docker-Container/blob/main/Command_Line_Interface__Docker_Engine.pdf](https://github.com/kandrsn99/Web-Hosting-Docker-Sample/blob/main/Docker%20Command%20Line%20Interface.pdf)
 
-It shall be noted here you will need to install the docker engine on your local machine. You may do this through the instructions on the following webpage: https://docs.docker.com/engine/install/
+It shall be noted here you will need to install the Docker Engine on your local machine. You may do this through the instructions on the following webpage: https://docs.docker.com/engine/install/
 
 In order to install this repository from the command line you will need to get the 'git' package on your linux machine.
 
