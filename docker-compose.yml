@@ -8,7 +8,7 @@ services:
     build: .
     # Name of the container
     container_name: running_web_app
-    restart:always
+    restart: always
     # Mapping port 8080 to 80 on your machines infrastructure. This is the most typical portage usage on any machine utilized for hosting.
     ports:
       - "8080:80"
