@@ -2,7 +2,7 @@
 This is a sample of a webpage launchable with Docker. Docker makes it easy to deploy executables on a web-host.
 
 You may read about the summarized documentation of Docker here:
-[https://github.com/kandrsn99/Web-Hosting-Docker-Container/blob/main/Command_Line_Interface__Docker_Engine.pdf](https://github.com/kandrsn99/Web-Hosting-Docker-Sample/blob/main/Docker%20Command%20Line%20Interface.pdf)
+https://github.com/kandrsn99/Web-Hosting-Docker-Nginx-Proxy/blob/main/Docker%20Command%20Line%20Interface.pdf
 
 It shall be noted here you will need to install the Docker Engine on your local machine. You may do this through the instructions on the following webpage: https://docs.docker.com/engine/install/
 
@@ -18,8 +18,7 @@ Any Operating System utilizing 'DNF' package manager
 > sudo dnf install git
 
 Next, utilize the git function on your local machine command line interface to download this repository.
-> git clone https://github.com/kandrsn99/Web-Hosting-Docker-Sample.git
-
+> git clone https://github.com/kandrsn99/Web-Hosting-Docker-Nginx-Proxy.git
 Subsequently, change into the directory containing your downloaded repository. 
 > cd 'name of file-path'
 
