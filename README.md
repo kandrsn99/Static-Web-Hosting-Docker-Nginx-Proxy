@@ -1,4 +1,4 @@
-# Web-Hosting-Docker-Container
+# Web-Hosting-Docker-Container-Nginx-Proxy
 This is a sample of a webpage launchable with Docker. Docker makes it easy to deploy executables on a web-host.
 
 You may read about the summarized documentation of Docker here:
