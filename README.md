@@ -27,7 +27,7 @@ Upon entering the directory. The docker compose file should allow you to build t
 > docker compose build\
 > docker compose up -d
 
-You may check your HTML via web hosting service on http://localhost:8080/ or the server address on http://address:8080/
+You may check your HTML via web hosting service on http://localhost:80/ or the server address on http://address:80/
 
 You may purchase a domain name server (DNS) register to point to your new hosts internet protocol (IP) address. Upon completion of pointing a DNS at the host you may use http://dominamename to send to all your friends and/or customers. The customized domain name may be added if you read about the official NGINX docker image documentation here https://hub.docker.com/_/nginx/ which was modified for this repository.
 
