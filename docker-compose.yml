@@ -1,14 +1,16 @@
-version: '3.8'
 # Denote all services utilized by docker engine.
 services:
 # A web application service.
   web_application:
-    image: static_web_app
+    # Typically, we may refer to an image to pull from here. This is a sample, so there is none.
+    # image: image_name
     # Build Dockerfile
     build: .
     # Name of the container
     container_name: running_web_app
     restart: always
-    # Mapping port 8080 to 80 on your machines infrastructure. This is the most typical portage usage on any machine utilized for hosting.
+    # Mapping ports 80 and 443 on your machines infrastructure.
+    # Typically, your port for transfer control protocol is 22/tcp is SSH, 80/tcp is HTTP, and 443/tcp is HTTPS.
     ports:
-      - "8080:80"
+      - 80:80
+      - 443:443
