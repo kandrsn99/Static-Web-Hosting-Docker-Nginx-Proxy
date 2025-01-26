@@ -1,5 +1,5 @@
 # Web-Hosting-Docker-Container-Nginx-Proxy
-This is a sample of a webpage launchable with Docker. Docker makes it easy to deploy executables on a web-host.
+This is a sample of a webpage launchable with Docker. Docker makes it easy to deploy executables on a server host.
 
 You may read about the summarized documentation of Docker here:
 https://github.com/kandrsn99/Web-Hosting-Docker-Nginx-Proxy/blob/main/Docker%20Command%20Line%20Interface.pdf
