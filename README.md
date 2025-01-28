@@ -31,5 +31,7 @@ You may check your HTML via web hosting service on http://localhost:80/ or the s
 
 You may purchase a domain name server (DNS) register to point to your new hosts internet protocol (IP) address. Upon completion of pointing a DNS at the host you may use http://dominamename to send to all your friends and/or customers. The customized domain name may be added if you read about the official NGINX docker image documentation here https://hub.docker.com/_/nginx/ which was modified for this repository.
 
+Do note that you must retrieve an SSL (secure socket layet) certificate to have HTTPs working for your domain name. The NGINX configuration file is meant to be easy to follow and understand. Read it and make sure the certificates are stored in the correct locations with the proper naming schema.
+
 It is highly recommended that you use Cloudflare as they are the leading provider of a register for hosting a DNS. You may review their documentation here https://developers.cloudflare.com/learning-paths/get-started/ at your leisure.
 
